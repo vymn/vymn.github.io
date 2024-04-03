@@ -37,12 +37,8 @@ const HeroContent = () => {
             <span className="text-6xl">Let&apos;s Create a new</span>
             <span className="text-6xl text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 before:animate-typewriter">
               {" "}
-             <pre>
-                <
-            </pre>{" "}Dimension
-            <pre>
-               />
-            </pre>{" "}
+             Dimension
+            {" "}
             </span>
           </span>
         </motion.div>
