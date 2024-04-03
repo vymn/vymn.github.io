@@ -43,7 +43,7 @@ const About = () => {
   return (
     <>
       <div className="px-20">
-        (https://skillicons.dev/icons?i=flutter,kotlin,java,python,vue,nodejs,git,tailwindcss,dart,js,bootstrap,firebase,linux,vscode,unreal,postman,github,gitlab,pytorch,androidstudio,eclipse,netbeans)](https://skillicons.dev)
+        {/* (https://skillicons.dev/icons?i=flutter,kotlin,java,python,vue,nodejs,git,tailwindcss,dart,js,bootstrap,firebase,linux,vscode,unreal,postman,github,gitlab,pytorch,androidstudio,eclipse,netbeans)](https://skillicons.dev) */}
         {/* <LogoCanvas /> */}
         <motion.div variants={textVariant()}>
           <p className={styles.sectionSubText}>WHAT CAN I DO</p>
