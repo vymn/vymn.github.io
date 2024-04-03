@@ -32,13 +32,13 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.5)}
           className="flex flex-col gap-6 mt-6 text-6xl font-bold text-white max-w-[600px] w-auto h-auto before:animate-typewriter"
         >
-          <span>
-            Ayman
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
+          <span className="before:animate-typewriter ">
+            {/* Hi, I&apos;m Ayman <br /> */}
+            <span className="text-6xl">Let's Create a new</span>
+            <span className="text-6xl text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 before:animate-typewriter">
               {" "}
-              Mohammed{" "}
+              Dimension...{" "}
             </span>
-            Salih
           </span>
         </motion.div>
 
