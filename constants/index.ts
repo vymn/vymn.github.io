@@ -82,6 +82,11 @@ export const Skill_data = [
   
   export const Socials = [
     {
+      name: "Resume",
+      src: "/resume_logo.svg",
+      link:"https://drive.google.com/drive/folders/1npCiQZ6jyFBGCGkVO0qhgiOinkumIl70?usp=sharing"
+    },
+    {
       name: "Github",
       src: "/github_logo.svg",
       link:"https://github.com/vymn"
