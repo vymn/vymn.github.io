@@ -34,7 +34,7 @@ const HeroContent = () => {
         >
           <span className="before:animate-typewriter ">
             {/* Hi, I&apos;m Ayman <br /> */}
-            <span className="text-6xl">Let's Create a new</span>
+            <span className="text-6xl">Let&apos;s Create a new</span>
             <span className="text-6xl text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 before:animate-typewriter">
               {" "}
               &#60;Dimension &#92;&#62;
